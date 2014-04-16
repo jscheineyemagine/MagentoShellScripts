@@ -17,6 +17,5 @@ Example Usage:
 	/stores/default/admin/startup/page : dashboard
 	/stores/default/admin/security/password_lifetime : 90
 	/stores/default/admin/security/password_is_forced : 1
-	jschein@IMAC-001 $
-
+	
 	shell $
